@@ -26,10 +26,10 @@ This hack helps to plan a perfect vacation using simple questions to find the pe
  This hack helps you to plan your schedule and allows you to disconnect from your phone to allow you to take a break if needed. It also has an available vacation    playlist powered by Spotify Premium which will help you relax, which will increase your productivity.
   
 **😊Best Domain Name from Domain.com😊**
- We Purchased a domain from Domain.com used for the computer website which is vacationit.tech 
+ We Purchased a domain from Domain.com used for the computer website which is **vacationit.tech **
   
 **😊Best Domain Name from GoDaddy Registry😊**
- We Purchased a domain from GoDaddy used for the mobile website which is vacationit.travel
+ We Purchased a domain from GoDaddy used for the mobile website which is **vacationit.travel**
   
 **🤔What’s next for Vacation it🤔**
 More advanced vacation 
