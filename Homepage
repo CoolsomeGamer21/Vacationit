@@ -1,0 +1,336 @@
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 834px;
+height: 1179px;
+left: 0px;
+top: 0px;
+
+background: #E0F3D2;
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 834px;
+height: 1179px;
+left: 0px;
+top: 0px;
+
+background: #E0F3D2;
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 834px;
+height: 1179px;
+left: 0px;
+top: 0px;
+
+background: #E0F3D2;
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 834px;
+height: 1194px;
+left: 0px;
+top: 0px;
+
+background: #A2D4E8;
+
+
+/* image 1 */
+
+
+position: absolute;
+width: 834px;
+height: 19px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* image 2 */
+
+
+position: absolute;
+width: 834px;
+height: 19px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* Welcome to Vacationit */
+
+
+position: absolute;
+width: 1102px;
+height: 199px;
+left: 47px;
+top: 19px;
+
+font-family: 'Jim Nightshade';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 136px;
+
+color: #FFFFFF;
+
+
+
+/* Your next vacation recommendation */
+
+
+position: absolute;
+width: 841px;
+height: 182px;
+left: 0px;
+top: 127px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* image 12 */
+
+
+position: absolute;
+width: 638px;
+height: 345px;
+left: 68px;
+top: 218px;
+
+background: url(image.png);
+
+
+/* Singapore */
+
+
+position: absolute;
+width: 303px;
+height: 98px;
+left: 265px;
+top: 563px;
+
+font-family: 'Licorice';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 120px;
+
+color: #000000;
+
+
+
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 363px;
+height: 87px;
+left: 443px;
+top: 684px;
+
+background: rgba(0, 254, 163, 0.5);
+
+
+/* PLACES */
+
+
+position: absolute;
+width: 331px;
+height: 116px;
+left: 503px;
+top: 696px;
+
+font-family: 'Inspiration';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 81px;
+
+color: #000000;
+
+
+
+/* Rectangle 16 */
+
+
+position: absolute;
+width: 357px;
+height: 96px;
+left: 30px;
+top: 692px;
+
+background: #81FFA4;
+
+
+/* Rectangle 15 */
+
+
+position: absolute;
+width: 357px;
+height: 96px;
+left: 30px;
+top: 853px;
+
+background: #BAFFE6;
+
+
+/* Rectangle 17 */
+
+
+position: absolute;
+width: 357px;
+height: 96px;
+left: 421px;
+top: 999px;
+
+background: #FFF6A2;
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 357px;
+height: 96px;
+left: 30px;
+top: 999px;
+
+background: #06F0FF;
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 357px;
+height: 96px;
+left: 30px;
+top: 1175px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 20 */
+
+
+position: absolute;
+width: 357px;
+height: 96px;
+left: 421px;
+top: 837px;
+
+background: #8D99FF;
+
+
+/* Disconnect */
+
+
+position: absolute;
+width: 356px;
+height: 87px;
+left: 30px;
+top: 692px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+
+
+
+/* Spotify */
+
+
+position: absolute;
+width: 356px;
+height: 87px;
+left: 87px;
+top: 862px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+
+
+
+/* SIGN OUT */
+
+
+position: absolute;
+width: 356px;
+height: 87px;
+left: 31px;
+top: 1008px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+
+
+
+/* Vacation */
+
+
+position: absolute;
+width: 710px;
+height: 286px;
+left: 451px;
+top: 835px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+
+
+
+/* Fun Mode */
+
+
+position: absolute;
+width: 317px;
+height: 91px;
+left: 466px;
+top: 1008px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
