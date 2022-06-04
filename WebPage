@@ -1,0 +1,431 @@
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 834px;
+height: 1179px;
+left: 0px;
+top: 0px;
+
+background: #CFF9B1;
+
+
+/* image 1 */
+
+
+position: absolute;
+width: 834px;
+height: 19px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* Welcome to Vacationit The website for relaxation */
+
+
+position: absolute;
+width: 820px;
+height: 149px;
+left: 0px;
+top: 81px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 152px;
+height: 49px;
+left: 15px;
+top: 32px;
+
+background: rgba(254, 0, 0, 0.5);
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 175px;
+height: 49px;
+left: 184px;
+top: 32px;
+
+background: rgba(0, 254, 163, 0.5);
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 175px;
+height: 49px;
+left: 383px;
+top: 32px;
+
+background: rgba(0, 178, 254, 0.5);
+
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 175px;
+height: 49px;
+left: 592px;
+top: 35px;
+
+background: rgba(254, 0, 0, 0.5);
+
+
+/* Home */
+
+
+position: absolute;
+width: 129px;
+height: 44px;
+left: 31px;
+top: 29px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Relax */
+
+
+position: absolute;
+width: 129px;
+height: 44px;
+left: 211px;
+top: 32px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Sign up */
+
+
+position: absolute;
+width: 175px;
+height: 44px;
+left: 400px;
+top: 37px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Sign in */
+
+
+position: absolute;
+width: 175px;
+height: 44px;
+left: 609px;
+top: 40px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Where would you like to go? */
+
+
+position: absolute;
+width: 668px;
+height: 98px;
+left: 143px;
+top: 181px;
+
+font-family: 'Cute Font';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 80px;
+
+color: #000000;
+
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 665px;
+height: 45px;
+left: 8px;
+top: 243px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 114px;
+height: 44px;
+left: 697px;
+top: 244px;
+
+background: rgba(0, 117, 255, 0.72);
+
+
+/* Go */
+
+
+position: absolute;
+width: 87px;
+height: 74px;
+left: 724px;
+top: 244px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+
+color: #000000;
+
+
+
+/* Popular places */
+
+
+position: absolute;
+width: 604px;
+height: 53px;
+left: 290px;
+top: 288px;
+
+font-family: 'Licorice';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 80px;
+
+color: #000000;
+
+
+
+/* image 2 */
+
+
+position: absolute;
+width: 275px;
+height: 188px;
+left: 31px;
+top: 354px;
+
+background: url(image.png);
+
+
+/* Bali, Indonesia from $300 */
+
+
+position: absolute;
+width: 274px;
+height: 71px;
+left: 39px;
+top: 550px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+
+
+/* Thailand from $510 */
+
+
+position: absolute;
+width: 274px;
+height: 71px;
+left: 520px;
+top: 837px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+
+
+/* Singapore from $405 */
+
+
+position: absolute;
+width: 274px;
+height: 71px;
+left: 487px;
+top: 542px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+
+
+/* California from $100 */
+
+
+position: absolute;
+width: 274px;
+height: 71px;
+left: 66px;
+top: 831px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+
+
+/* image 3 */
+
+
+position: absolute;
+width: 345px;
+height: 173px;
+left: 423px;
+top: 355px;
+
+background: url(image.png);
+
+
+/* image 4 */
+
+
+position: absolute;
+width: 282px;
+height: 157px;
+left: 31px;
+top: 661px;
+
+background: url(image.png);
+
+
+/* image 5 */
+
+
+position: absolute;
+width: 327px;
+height: 195px;
+left: 434px;
+top: 642px;
+
+background: url(image.png);
+
+
+/* image 6 */
+
+
+position: absolute;
+width: 275px;
+height: 183px;
+left: 31px;
+top: 915px;
+
+background: url(image.png);
+
+
+/* Bahamas from $434 */
+
+
+position: absolute;
+width: 274px;
+height: 71px;
+left: 66px;
+top: 1107px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+
+
+/* image 7 */
+
+
+position: absolute;
+width: 334px;
+height: 180px;
+left: 434px;
+top: 927px;
+
+background: url(image.png);
+
+
+/* Punjab from $233 */
+
+
+position: absolute;
+width: 274px;
+height: 71px;
+left: 520px;
+top: 1116px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
