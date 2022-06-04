@@ -1,0 +1,293 @@
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 834px;
+height: 1179px;
+left: 0px;
+top: 0px;
+
+background: #E0F3D2;
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 834px;
+height: 1179px;
+left: 0px;
+top: 0px;
+
+background: #E0F3D2;
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 834px;
+height: 1179px;
+left: 0px;
+top: 0px;
+
+background: #E0F3D2;
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 834px;
+height: 1194px;
+left: 0px;
+top: 0px;
+
+background: #83BFC2;
+
+
+/* image 1 */
+
+
+position: absolute;
+width: 834px;
+height: 19px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* image 2 */
+
+
+position: absolute;
+width: 834px;
+height: 19px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* Popular Packages */
+
+
+position: absolute;
+width: 414px;
+height: 162px;
+left: 210px;
+top: 44px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Rectangle 21 */
+
+
+position: absolute;
+width: 783px;
+height: 128px;
+left: 25px;
+top: 142px;
+
+background: rgba(255, 0, 0, 0.53);
+
+
+/* 4 Day_Singapore_Voyage Premium */
+
+
+position: absolute;
+width: 794px;
+height: 100px;
+left: 32px;
+top: 170px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Rectangle 22 */
+
+
+position: absolute;
+width: 783px;
+height: 103px;
+left: 25px;
+top: 310px;
+
+background: rgba(0, 255, 240, 0.4);
+
+
+/* Rectangle 24 */
+
+
+position: absolute;
+width: 783px;
+height: 103px;
+left: 32px;
+top: 477px;
+
+background: rgba(0, 255, 240, 0.4);
+
+
+/* 5 Day_Singapore_Night Vacation */
+
+
+position: absolute;
+width: 794px;
+height: 100px;
+left: 32px;
+top: 332px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* 6 Day_Singapore_ Vacation */
+
+
+position: absolute;
+width: 794px;
+height: 100px;
+left: 25px;
+top: 497px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* OR */
+
+
+position: absolute;
+width: 266px;
+height: 139px;
+left: 332px;
+top: 625px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 116px;
+
+color: #000000;
+
+
+
+/* Rectangle 23 */
+
+
+position: absolute;
+width: 657px;
+height: 103px;
+left: 88px;
+top: 774px;
+
+background: #9BDBFF;
+
+
+/* Package Finder */
+
+
+position: absolute;
+width: 432px;
+height: 124px;
+left: 192px;
+top: 764px;
+
+font-family: 'Licorice';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 120px;
+
+color: #000000;
+
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 245px;
+height: 120px;
+left: 0px;
+top: 973px;
+
+background: #FFA8A8;
+
+
+/* Rectangle 26 */
+
+
+position: absolute;
+width: 245px;
+height: 120px;
+left: 563px;
+top: 972px;
+
+background: #80FF9C;
+
+
+/* LEARN */
+
+
+position: absolute;
+width: 294px;
+height: 86px;
+left: 32px;
+top: 1014px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Next */
+
+
+position: absolute;
+width: 294px;
+height: 86px;
+left: 598px;
+top: 1006px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
