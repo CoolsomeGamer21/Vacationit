@@ -1,0 +1,88 @@
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 834px;
+height: 1179px;
+left: 0px;
+top: 0px;
+
+background: #86FFF8;
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 834px;
+height: 1179px;
+left: 0px;
+top: 0px;
+
+background: #86FFF8;
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 834px;
+height: 1179px;
+left: 0px;
+top: 0px;
+
+background: #86FFF8;
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 834px;
+height: 1194px;
+left: 0px;
+top: 0px;
+
+background: #86FFF8;
+
+
+/* image 1 */
+
+
+position: absolute;
+width: 834px;
+height: 19px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* image 2 */
+
+
+position: absolute;
+width: 834px;
+height: 19px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* Thank you so much for your order! Be on the lookout for an email from us(support@vacationit.travel) to choose date and Info If you don’t receive an email within 48 hours, please contact us immediately at customersupport@vacationit.travel */
+
+
+position: absolute;
+width: 834px;
+height: 1160px;
+left: 0px;
+top: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
