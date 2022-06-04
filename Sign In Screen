@@ -1,0 +1,206 @@
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 834px;
+height: 1179px;
+left: 0px;
+top: 0px;
+
+background: #E0F3D2;
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 834px;
+height: 1179px;
+left: 0px;
+top: 0px;
+
+background: #E0F3D2;
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 834px;
+height: 1179px;
+left: 0px;
+top: 0px;
+
+background: #E0F3D2;
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 834px;
+height: 1179px;
+left: 0px;
+top: 0px;
+
+background: #77B3B5;
+
+
+/* image 1 */
+
+
+position: absolute;
+width: 834px;
+height: 19px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* image 2 */
+
+
+position: absolute;
+width: 834px;
+height: 19px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* Email */
+
+
+position: absolute;
+width: 175px;
+height: 44px;
+left: 17px;
+top: 177px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Password */
+
+
+position: absolute;
+width: 554px;
+height: 115px;
+left: 17px;
+top: 326px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Welcome Back to Vacationit */
+
+
+position: absolute;
+width: 1197px;
+height: 98px;
+left: 0px;
+top: 49px;
+
+font-family: 'Licorice';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 120px;
+
+color: #000000;
+
+
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 556px;
+height: 45px;
+left: 17px;
+top: 251px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 556px;
+height: 45px;
+left: 17px;
+top: 383px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 240px;
+height: 66px;
+left: 17px;
+top: 486px;
+
+background: rgba(0, 254, 163, 0.5);
+
+
+/* Login */
+
+
+position: absolute;
+width: 300px;
+height: 133px;
+left: 60px;
+top: 488px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* image 8 */
+
+
+position: absolute;
+width: 816px;
+height: 160px;
+left: 10px;
+top: 597px;
+
+background: url(image.png);
+
+
+/* image 9 */
+
+
+position: absolute;
+width: 831px;
+height: 156px;
+left: 2px;
+top: 779px;
+
+background: url(image.png);
