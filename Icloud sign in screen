@@ -1,0 +1,485 @@
+// Rectangle 1
+
+
+var view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 834, height: 1179)
+
+view.backgroundColor = .white
+
+
+view.layer.backgroundColor = UIColor(red: 0.878, green: 0.953, blue: 0.824, alpha: 1).cgColor
+
+
+var parent = self.view!
+
+parent.addSubview(view)
+
+view.translatesAutoresizingMaskIntoConstraints = false
+
+view.widthAnchor.constraint(equalToConstant: 834).isActive = true
+
+view.heightAnchor.constraint(equalToConstant: 1179).isActive = true
+
+view.leadingAnchor.constraint(equalTo: parent.leadingAnchor, constant: 0).isActive = true
+
+view.topAnchor.constraint(equalTo: parent.topAnchor, constant: 0).isActive = true
+
+
+
+
+// Rectangle 3
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 834, height: 1179)
+
+view.backgroundColor = .white
+
+
+view.layer.backgroundColor = UIColor(red: 0.878, green: 0.953, blue: 0.824, alpha: 1).cgColor
+
+
+parent = self.view!
+
+parent.addSubview(view)
+
+view.translatesAutoresizingMaskIntoConstraints = false
+
+view.widthAnchor.constraint(equalToConstant: 834).isActive = true
+
+view.heightAnchor.constraint(equalToConstant: 1179).isActive = true
+
+view.leadingAnchor.constraint(equalTo: parent.leadingAnchor, constant: 0).isActive = true
+
+view.topAnchor.constraint(equalTo: parent.topAnchor, constant: 0).isActive = true
+
+
+
+
+// Rectangle 2
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 834, height: 1179)
+
+view.backgroundColor = .white
+
+
+view.layer.backgroundColor = UIColor(red: 0.878, green: 0.953, blue: 0.824, alpha: 1).cgColor
+
+
+parent = self.view!
+
+parent.addSubview(view)
+
+view.translatesAutoresizingMaskIntoConstraints = false
+
+view.widthAnchor.constraint(equalToConstant: 834).isActive = true
+
+view.heightAnchor.constraint(equalToConstant: 1179).isActive = true
+
+view.leadingAnchor.constraint(equalTo: parent.leadingAnchor, constant: 0).isActive = true
+
+view.topAnchor.constraint(equalTo: parent.topAnchor, constant: 0).isActive = true
+
+
+
+
+// Rectangle 4
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 834, height: 1179)
+
+view.backgroundColor = .white
+
+
+view.layer.backgroundColor = UIColor(red: 0.878, green: 0.953, blue: 0.824, alpha: 1).cgColor
+
+
+parent = self.view!
+
+parent.addSubview(view)
+
+view.translatesAutoresizingMaskIntoConstraints = false
+
+view.widthAnchor.constraint(equalToConstant: 834).isActive = true
+
+view.heightAnchor.constraint(equalToConstant: 1179).isActive = true
+
+view.leadingAnchor.constraint(equalTo: parent.leadingAnchor, constant: 0).isActive = true
+
+view.topAnchor.constraint(equalTo: parent.topAnchor, constant: 0).isActive = true
+
+
+
+
+// image 1
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 834, height: 19)
+
+view.backgroundColor = .white
+
+
+let image0 = UIImage(named: "image.png")?.cgImage
+
+let layer0 = CALayer()
+
+layer0.contents = image0
+
+layer0.transform = CATransform3DMakeAffineTransform(CGAffineTransform(a: 1, b: 0, c: 0, d: 1.28, tx: 0, ty: -0.14))
+
+layer0.bounds = view.bounds
+
+layer0.position = view.center
+
+view.layer.addSublayer(layer0)
+
+
+
+parent = self.view!
+
+parent.addSubview(view)
+
+view.translatesAutoresizingMaskIntoConstraints = false
+
+view.widthAnchor.constraint(equalToConstant: 834).isActive = true
+
+view.heightAnchor.constraint(equalToConstant: 19).isActive = true
+
+view.leadingAnchor.constraint(equalTo: parent.leadingAnchor, constant: 0).isActive = true
+
+view.topAnchor.constraint(equalTo: parent.topAnchor, constant: 0).isActive = true
+
+
+
+
+// image 2
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 834, height: 19)
+
+view.backgroundColor = .white
+
+
+let image0 = UIImage(named: "image.png")?.cgImage
+
+let layer0 = CALayer()
+
+layer0.contents = image0
+
+layer0.transform = CATransform3DMakeAffineTransform(CGAffineTransform(a: 1, b: 0, c: 0, d: 1.28, tx: 0, ty: -0.14))
+
+layer0.bounds = view.bounds
+
+layer0.position = view.center
+
+view.layer.addSublayer(layer0)
+
+
+
+parent = self.view!
+
+parent.addSubview(view)
+
+view.translatesAutoresizingMaskIntoConstraints = false
+
+view.widthAnchor.constraint(equalToConstant: 834).isActive = true
+
+view.heightAnchor.constraint(equalToConstant: 19).isActive = true
+
+view.leadingAnchor.constraint(equalTo: parent.leadingAnchor, constant: 0).isActive = true
+
+view.topAnchor.constraint(equalTo: parent.topAnchor, constant: 0).isActive = true
+
+
+
+
+// image 10
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 834, height: 1160)
+
+view.backgroundColor = .white
+
+
+let image0 = UIImage(named: "image.png")?.cgImage
+
+let layer0 = CALayer()
+
+layer0.contents = image0
+
+layer0.transform = CATransform3DMakeAffineTransform(CGAffineTransform(a: 2.5, b: 0, c: 0, d: 1, tx: -0.75, ty: 0))
+
+layer0.bounds = view.bounds
+
+layer0.position = view.center
+
+view.layer.addSublayer(layer0)
+
+
+
+parent = self.view!
+
+parent.addSubview(view)
+
+view.translatesAutoresizingMaskIntoConstraints = false
+
+view.widthAnchor.constraint(equalToConstant: 834).isActive = true
+
+view.heightAnchor.constraint(equalToConstant: 1160).isActive = true
+
+view.leadingAnchor.constraint(equalTo: parent.leadingAnchor, constant: 0).isActive = true
+
+view.topAnchor.constraint(equalTo: parent.topAnchor, constant: 19).isActive = true
+
+
+
+
+// Rectangle 11
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 291, height: 30)
+
+view.backgroundColor = .white
+
+
+view.layer.backgroundColor = UIColor(red: 1, green: 1, blue: 1, alpha: 1).cgColor
+
+
+parent = self.view!
+
+parent.addSubview(view)
+
+view.translatesAutoresizingMaskIntoConstraints = false
+
+view.widthAnchor.constraint(equalToConstant: 291).isActive = true
+
+view.heightAnchor.constraint(equalToConstant: 30).isActive = true
+
+view.leadingAnchor.constraint(equalTo: parent.leadingAnchor, constant: 513).isActive = true
+
+view.topAnchor.constraint(equalTo: parent.topAnchor, constant: 597).isActive = true
+
+
+
+
+// Vacationit
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 226, height: 117)
+
+view.backgroundColor = .white
+
+
+view.textColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1)
+
+view.font = UIFont(name: "Inter-Regular", size: 32)
+
+
+// Line height: 39 pt
+
+
+view.text = "Vacationit"
+
+
+parent = self.view!
+
+parent.addSubview(view)
+
+view.translatesAutoresizingMaskIntoConstraints = false
+
+view.widthAnchor.constraint(equalToConstant: 226).isActive = true
+
+view.heightAnchor.constraint(equalToConstant: 117).isActive = true
+
+view.leadingAnchor.constraint(equalTo: parent.leadingAnchor, constant: 513).isActive = true
+
+view.topAnchor.constraint(equalTo: parent.topAnchor, constant: 596).isActive = true
+
+
+
+
+// Rectangle 12
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 594, height: 43)
+
+view.backgroundColor = .white
+
+
+view.layer.backgroundColor = UIColor(red: 1, green: 1, blue: 1, alpha: 1).cgColor
+
+
+parent = self.view!
+
+parent.addSubview(view)
+
+view.translatesAutoresizingMaskIntoConstraints = false
+
+view.widthAnchor.constraint(equalToConstant: 594).isActive = true
+
+view.heightAnchor.constraint(equalToConstant: 43).isActive = true
+
+view.leadingAnchor.constraint(equalTo: parent.leadingAnchor, constant: 92).isActive = true
+
+view.topAnchor.constraint(equalTo: parent.topAnchor, constant: 726).isActive = true
+
+
+
+
+// Rectangle 13
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 350, height: 31)
+
+view.backgroundColor = .white
+
+
+view.layer.backgroundColor = UIColor(red: 1, green: 1, blue: 1, alpha: 1).cgColor
+
+
+parent = self.view!
+
+parent.addSubview(view)
+
+view.translatesAutoresizingMaskIntoConstraints = false
+
+view.widthAnchor.constraint(equalToConstant: 350).isActive = true
+
+view.heightAnchor.constraint(equalToConstant: 31).isActive = true
+
+view.leadingAnchor.constraint(equalTo: parent.leadingAnchor, constant: 309).isActive = true
+
+view.topAnchor.constraint(equalTo: parent.topAnchor, constant: 852).isActive = true
+
+
+
+
+// image 11
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 197, height: 171)
+
+view.backgroundColor = .white
+
+
+let image0 = UIImage(named: "image.png")?.cgImage
+
+let layer0 = CALayer()
+
+layer0.contents = image0
+
+layer0.transform = CATransform3DMakeAffineTransform(CGAffineTransform(a: 1, b: 0, c: 0, d: 1.15, tx: 0, ty: -0.08))
+
+layer0.bounds = view.bounds
+
+layer0.position = view.center
+
+view.layer.addSublayer(layer0)
+
+
+
+parent = self.view!
+
+parent.addSubview(view)
+
+view.translatesAutoresizingMaskIntoConstraints = false
+
+view.widthAnchor.constraint(equalToConstant: 197).isActive = true
+
+view.heightAnchor.constraint(equalToConstant: 171).isActive = true
+
+view.leadingAnchor.constraint(equalTo: parent.leadingAnchor, constant: 466).isActive = true
+
+view.topAnchor.constraint(equalTo: parent.topAnchor, constant: 392).isActive = true
+
+
+
+
+// Vacationit.relaxation@iCloud.com
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 666, height: 55)
+
+view.backgroundColor = .white
+
+
+view.textColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1)
+
+view.font = UIFont(name: "Inter-Regular", size: 32)
+
+
+// Line height: 39 pt
+
+
+view.text = "Vacationit.relaxation@iCloud.com"
+
+
+parent = self.view!
+
+parent.addSubview(view)
+
+view.translatesAutoresizingMaskIntoConstraints = false
+
+view.widthAnchor.constraint(equalToConstant: 666).isActive = true
+
+view.heightAnchor.constraint(equalToConstant: 55).isActive = true
+
+view.leadingAnchor.constraint(equalTo: parent.leadingAnchor, constant: 95).isActive = true
+
+view.topAnchor.constraint(equalTo: parent.topAnchor, constant: 717).isActive = true
+
+
+
+
+// Ellipse 1
+
+
+view = UILabel()
+
+view.frame = CGRect(x: 0, y: 0, width: 129, height: 99)
+
+view.backgroundColor = .white
+
+
+view.layer.backgroundColor = UIColor(red: 0.521, green: 0.269, blue: 0.269, alpha: 0.01).cgColor
+
+
+parent = self.view!
+
+parent.addSubview(view)
+
+view.translatesAutoresizingMaskIntoConstraints = false
+
+view.widthAnchor.constraint(equalToConstant: 129).isActive = true
+
+view.heightAnchor.constraint(equalToConstant: 99).isActive = true
+
+view.leadingAnchor.constraint(equalTo: parent.leadingAnchor, constant: 632).isActive = true
+
+view.topAnchor.constraint(equalTo: parent.topAnchor, constant: 806).isActive = true
+
