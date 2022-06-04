@@ -1,0 +1,193 @@
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 834px;
+height: 1179px;
+left: 0px;
+top: 0px;
+
+background: #E0F3D2;
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 834px;
+height: 1179px;
+left: 0px;
+top: 0px;
+
+background: #E0F3D2;
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 834px;
+height: 1179px;
+left: 0px;
+top: 0px;
+
+background: #E0F3D2;
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 834px;
+height: 1194px;
+left: 0px;
+top: 0px;
+
+background: #E0F3D2;
+
+
+/* image 1 */
+
+
+position: absolute;
+width: 834px;
+height: 19px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* image 2 */
+
+
+position: absolute;
+width: 834px;
+height: 19px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* 4 Day_Singapore_Voyage Premium */
+
+
+position: absolute;
+width: 794px;
+height: 100px;
+left: 20px;
+top: 173px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* YOU SELECTED */
+
+
+position: absolute;
+width: 451px;
+height: 108px;
+left: 191px;
+top: 65px;
+
+font-family: 'Inspiration';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 81px;
+
+color: #000000;
+
+
+
+/* Package: $400.75 Tax: $ 10.00 TOTAL: $410.75 */
+
+
+position: absolute;
+width: 595px;
+height: 248px;
+left: 140px;
+top: 242px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+
+
+
+/* image 13 */
+
+
+position: absolute;
+width: 834px;
+height: 152px;
+left: 0px;
+top: 590px;
+
+background: url(image.png);
+
+
+/* image 14 */
+
+
+position: absolute;
+width: 834px;
+height: 154px;
+left: 0px;
+top: 742px;
+
+background: url(image.png);
+
+
+/* image 15 */
+
+
+position: absolute;
+width: 834px;
+height: 103px;
+left: 0px;
+top: 896px;
+
+background: url(image.png);
+
+
+/* Rectangle 27 */
+
+
+position: absolute;
+width: 834px;
+height: 132px;
+left: 0px;
+top: 987px;
+
+background: #FFFFFF;
+
+
+/* PAY WITH CREDIT CARD */
+
+
+position: absolute;
+width: 943px;
+height: 112px;
+left: 43px;
+top: 1007px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
